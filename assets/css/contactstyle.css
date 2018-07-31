@@ -1,0 +1,92 @@
+.name {
+	background-color: #4aaaa5;
+	font-family: 'Georgia', Times, Times, serif;
+	color: white;
+	text-align: center;
+	padding-top: 30px;
+	width: 300px;
+	height: 70px;
+}
+
+ .nav {
+	color: #777777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+.contact {
+	font-family: 'Georgia', Times, Times, serif;
+	color: #4aaaa5;
+}
+
+p {
+	color: #777777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+header {
+	background-color: #ffffff;
+	border-color: #cccccc;
+}
+
+footer {
+	background-color: #666666;
+	width: 1280px;
+	height: 50px; 
+	margin-right: 50px;
+}
+
+.thinfooter {
+	background-color: #4aaaa5;
+	width: 1280px;
+	height: 5px;
+}
+
+.footer {
+	color: #ffffff;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	text-align: center;
+}
+
+.entirecontent {
+	background-color: #ffffff;
+	border-color: #dddddd;
+	width: 960px;
+	margin-left: 140px;
+}
+
+.mainsection {
+	width: 960px;
+	margin-left: 140px;
+	background-color: #ffffff;
+	border-color: #dddddd;
+	}
+
+.first-name {
+	width: 940px;
+}
+
+.email {
+	width: 940px;
+}
+
+#button {
+	background-color: #4aaaa5;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: white;
+	width: 50px;
+	height: 20px;
+}
+
+
+
+
+
+
+
+
+
+
